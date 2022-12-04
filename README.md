@@ -1,7 +1,10 @@
 # python-api-challenge
 
+<<<<<<< HEAD
  
 •	Submitting a text entry box or a website url
+=======
+>>>>>>> d061917c028834fbfa33cf3c1667011d43520642
 Background
 Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
 Now, we know what you may be thinking: “That’s obvious. It gets hotter.” But, if pressed for more information, how would you prove that?
@@ -78,6 +81,9 @@ Hints and Considerations
 •	While building your script, pay attention to the cities you are using in your query pool. Are you covering the full range of latitudes and longitudes? Or are you choosing 500 cities from one region of the world? Even if you were a geography genius, simply listing 500 cities based on your personal selection would create a biased dataset. Try to think of ways that you can counter these selection issues.
 o	Hint: Consider the full range of latitudes.
 •	Once you have computed the linear regression for one relationship, you will follow a similar process for all other charts. As a bonus, try to create a function that will create these charts based on different parameters.
+<<<<<<< HEAD
 •	Remember that each coordinate will trigger a separate call to the Google API. If you're creating your own criteria to plan your vacation, try to reduce the results in your DataFrame to 10 or fewer cities.
 
 
+=======
+>>>>>>> d061917c028834fbfa33cf3c1667011d43520642
